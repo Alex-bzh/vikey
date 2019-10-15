@@ -13,7 +13,8 @@ L'archive la plus récente, disponible en téléchargement, est constituée de s
 - *vikey.js* : le script gérant l'apparition du clavier virtuel et la saisie des caractères ;
 - *vk-ipa.json* : le support IPA, écrit au format JSON ;
 - *vk-alpha.json* : un clavier alphabétique, au format JSON ;
-- *README.txt* : le fichier avec les instructions de mise en place et de personnalisation.
+- *README.md* : le fichier avec les instructions de mise en place et de personnalisation ;
+- *LICENSE* : la licence CeCILL 2.1.
 
 ## Installation
 1. Téléchargez la dernière archive :  
