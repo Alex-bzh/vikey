@@ -4,7 +4,7 @@ Virtual keyboards that can be linked to HTML forms.
 ViKey est un module javascript permettant d'attacher un clavier virtuel à un champ de formulaire. Il embarque, dans sa distribution originelle, un support IPA (*International Phonetic Alphabet*).
 
 ## Distribution
-ViKey est distribué sous licence CECILL 2.1.
+ViKey est distribué sous licence CeCILL 2.1.
 
 L'archive la plus récente, disponible en téléchargement, est constituée de sept fichiers :
 - *jquery-2.2.0.min.js* : la bibliothèque jQuery v2.2.0 ;
