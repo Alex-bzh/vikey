@@ -8,7 +8,7 @@ ViKey est distribué sous licence CeCILL 2.1.
 
 L'archive la plus récente, disponible en téléchargement, est constituée de sept fichiers :
 - *jquery-2.2.0.min.js* : la bibliothèque jQuery v2.2.0 ;
-- *vikey.html* : un exemple d'implémentation du clavier virtuel ;
+- *index.html* : un exemple d'implémentation du clavier virtuel ;
 - *vikey.css* : les styles CSS qui habillent le clavier virtuel ;
 - *vikey.js* : le script gérant l'apparition du clavier virtuel et la saisie des caractères ;
 - *vk-ipa.json* : le support IPA, écrit au format JSON ;
