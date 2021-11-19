@@ -118,7 +118,7 @@ $(document).ready(function() {
                     // Where to?
                     $("#"+Event.target.id).val(function() {
                         var string = this.value.substr(0, posCursor) + char + this.value.substr(posCursor, this.value.length);
-                        posCursor += 1;
+                        posCursor += char.length;
                         return string;
                     });
                 });
